@@ -4,7 +4,7 @@ NEAT NEURON extension
 Introduction
 ------------
 
-This is an extension of the NEAT toolbox (https://github.com/WillemWybo/NEAT) that allows for the simulation of neuron models while using the typical NEAT interface.
+This is an extension of the NEAT toolbox (https://github.com/WillemWybo/NEAT) that allows for the simulation of NEAT trees with NEURON (https://www.neuron.yale.edu/neuron/).
 
 Installation
 ------------
