@@ -19,15 +19,12 @@ Check out the git repository and install using :code:`setup.py`
 
 Then go to the :code:`install.sh` script and change the line
 
-::
-    python setup.py install --prefix=~/.local
-::
+:code:`python setup.py install --prefix=~/.local`
+
 
 to your preferred python installation. Then change the following line accordingly
 
-::
-    cd ~/.local/lib/python2.7/site-packages/neatneuron/
-::
+:code:`cd ~/.local/lib/python2.7/site-packages/neatneuron/`
 
 To test the installation (requires :code:`pytest`)
 ::
